@@ -1,1 +1,1 @@
-# miniature-tribble
+# ganymede
